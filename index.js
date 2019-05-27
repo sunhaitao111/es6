@@ -1,5 +1,3 @@
-// 1、第一步 npm init 初始化项目
-// 2、第二步 npm i scanf 安装scanf插件
 const scanf=require('scanf');
 //console.log('123');
 
